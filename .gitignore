@@ -1,0 +1,122 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Data / audio / generated outputs
+data/
+train/
+test/
+tempobeats_val/
+onsets_train/
+onsets_val/
+*.wav
+*.mp3
+*.flac
+*.json
+
+# Models / checkpoints
+*.pt
+*.pth
+*.h5
+*.ckpt
+
+# Logs / cache
+runs/
+logs/
+.DS_Store
+
+# IDE settings
+.idea/
+
+# Dataset / validation folders
+combined_onsets_val/
+combined_onsets_train/
+onsets_train/
+onsets_val/
+tempobeats_val/
+train/
+test/
+data/
+
+# Audio/data files
+*.wav
+*.mp3
+*.flac
+*.gt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Models/checkpoints
+*.pt
+*.pth
+*.h5
+*.ckpt
+
+# Archives / datasets / generated training files
+*.zip
+*.npz
+*.wav
+*.mp3
+*.flac
+*.gt
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+
+# Big datasets / generated data
+train/
+test/
+train_extra_onsets/
+train_extra_tempobeats/
+combined_onsets_all/
+combined_onsets_train/
+combined_onsets_val/
+tempobeats_train/
+tempobeats_val/
+beat_train_final/
+
+# Archives
+*.zip
+
+# Generated numpy datasets
+*.npz
+
+# Audio and ground truth data
+*.wav
+*.mp3
+*.flac
+*.gt
+
+# IDE / Python
+.idea/
+__pycache__/
+*.pyc
+*.zip
+*.npz
+*.wav
+*.mp3
+*.flac
+*.gt
+
+train/
+test/
+train_extra_onsets/
+train_extra_tempobeats/
+combined_onsets_all/
+combined_onsets_train/
+combined_onsets_val/
+tempobeats_train/
+tempobeats_val/
+beat_train_final/
+
+.idea/
+__pycache__/
+*.pyc
